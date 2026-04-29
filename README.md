@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 
 ### 🛠 मेरी स्किल्स और टूल्स
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,python" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---

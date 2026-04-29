@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Raj Kapur
+
+🎓 BCA Student (AI-ML)  
+💻 Frontend Developer  
+🚀 Learning Web Development & Building Projects  
+
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- Bootstrap
+- Basic Git & GitHub
+
+## 📌 Projects
+- Complete Study Hub
+- Portfolio Website
+- Multi Threading Simulator
+  
+
+## 📫 Contact Me
+- Email: kapu6137@gmail.com

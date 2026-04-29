@@ -37,7 +37,10 @@ Here are some ideas to get you started:
 
 #  Hi 👋, I'm Raj Kapur
 
-### 🛠 मेरी स्किल्स और टूल्स
+🎓 BCA Student (AI-ML)  
+💻 Frontend Developer  
+🚀 Learning Web Development & Building Projects  
+###  Skills and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,python" />
 </p>
@@ -47,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 मेरे GitHub स्टैट्स
+### My GitHub Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Langs" width="48%" />
@@ -63,3 +66,13 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical" alt="Trophies" />
 </p>
+
+## 📌 Projects
+- Complete Study Hub
+- Portfolio Website
+- Multi Threading Simulator
+  
+
+## 📫 Contact Me
+- Email: kapu6137@gmail.com
+-  X: https://x.com/raj76471

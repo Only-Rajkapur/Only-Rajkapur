@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
 
-  <img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img align="right" height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 
 ###
@@ -131,10 +131,10 @@ Here are some ideas to get you started:
 
 
 
-<div align="right">
+<!--<div align="right">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+</div>-->
 
 ###
 

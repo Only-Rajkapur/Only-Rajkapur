@@ -3,7 +3,7 @@ name: Generate Datas
 on:
   schedule: # Har 12 ghante mein automatically chalega
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Aap manually bhi chala sakte hain
+  workflow_dispatch: # Manual chalane ke liye
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name:  Only-Rajkapur
+          github_user_name: Only-Rajkapur
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark

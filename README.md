@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 🚀 Learning Web Development & Building Projects  
 ###  Skills and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,python" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,c,java" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linkedin,x," />
 </p>
 
 ---

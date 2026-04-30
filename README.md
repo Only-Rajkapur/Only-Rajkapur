@@ -83,12 +83,11 @@ Here are some ideas to get you started:
 ###
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
-<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
 
-  <img align="right" height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -118,17 +117,13 @@ Here are some ideas to get you started:
 
 
 
-<!--###
+###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###-->
-
-
-
-
+###
 
 
 <!--<div align="right">
@@ -146,11 +141,5 @@ Here are some ideas to get you started:
 
 ###
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 

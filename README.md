@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - Complete Study Hub
 - Portfolio Website
 - Multi Threading Simulator-->
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Raj Kapur and I'm a Softwere Development, from india patna</h2>
 
 
 

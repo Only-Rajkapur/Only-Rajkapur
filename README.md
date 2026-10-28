@@ -1,77 +1,5 @@
-
-
-<!--
-**Only-Rajkapur/Only-Rajkapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<!-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--# Hi 👋, I'm Raj Kapur
-
-🎓 BCA Student (AI-ML)  
-💻 Frontend Developer  
-🚀 Learning Web Development & Building Projects  
-
-## 🔧 Skills
-- HTML, CSS, JavaScript
-- Bootstrap
-- Basic Git & GitHub
-
-## 📌 Projects
-- Complete Study Hub
-- Portfolio Website
-- Multi Threading Simulator
-  
-
-## 📫 Contact Me
-- Email: kapu6137@gmail.com
--  X: https://x.com/raj76471-->
-
-<!--#  Hi 👋, I'm Raj Kapur
-
-🎓 BCA Student (AI-ML)  
-💻 Frontend Developer  
-🚀 Learning Web Development & Building Projects  
-###  Skills and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,c,java" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linkedin,x," />
-</p>
-
----
-
-### My GitHub Status
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" width="100%" />
-</p>
-
----
-
-### 🏆 अर्जित अवार्ड्स (Trophies)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical" alt="Trophies" />
-</p>
-
-## 📌 Projects
-- Complete Study Hub
-- Portfolio Website
-- Multi Threading Simulator-->
-<h2 align="left">Hi 👋! My name is Raj Kapur and I'm a Softwere Development, from india patna</h2>
+<!---=====================================================================================================================================================================================-->
+<!-- <h2 align="left">Hi 👋! My name is Raj Kapur and I'm a Softwere Development, from india patna</h2>
 
 
 
@@ -127,8 +55,7 @@ Here are some ideas to get you started:
 
 
 <div align="right">
- <!-- <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />-->
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+ <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
@@ -145,12 +72,31 @@ Here are some ideas to get you started:
     alt="Pacman contribution graph" 
     src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"
   />
-</picture> 
+</picture>  -->
+<!---=====================================================================================================================================================================================-->
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+</picture>-->
+# 💫 About Me:
+# 👋 Hi, I'm [Your Name]<br><br>🎓 Computer Science student from Bihar, India, passionate about building things with code and learning something new every day.<br><br>## 🚀 About Me<br>- 🔭 Currently working on: [your project name / what you're building]<br>- 🌱 Currently learning: [Python, DBMS, Data Structures & Algorithms, Web Development]<br>- 🤝 Looking to collaborate on: [open-source projects, beginner-friendly projects]<br>- 💬 Ask me about: [Python, databases, anything you know]<br>- ⚡ Fun fact: [something interesting about you]<br><br>## 🛠️ Skills & Tools<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br><br>## 📌 Featured Projects<br>- **[Project 1]** – one line about what it does<br>- **[Project 2]** – one line about what it does<br><br>## 📫 Connect With Me<br>- 📧 Email: kapur6137@gmail.com<br>- 💼 LinkedIn: https://www.linkedin.com/in/rajkapur-kumar-87b716305/<br><br>⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajkapur-kumar-87b716305/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/raj76471) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Only-Rajkapur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Only-Rajkapur&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Only-Rajkapur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Only-Rajkapur&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
